@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type:'git'
   repo:
-  github:git@github.com:zzjc1234/Test-for-Web.git
+    github:git@github.com:zzjc1234/Test-for-Web.git

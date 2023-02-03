@@ -102,4 +102,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type:'git'
+  repo:
+  github:git@github.com:zzjc1234/Test-for-Web.git
